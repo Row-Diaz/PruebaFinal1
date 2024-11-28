@@ -1,26 +1,20 @@
 .containerFotoPerfil {
-
-    display: flex;
-   justify-content: center;
-   margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
 }
 
-h2  {
-    
-    margin-left: 5%;
-    
+h2 {
+  margin-left: 5%;
 }
 
 p {
-margin-left: 3%;
-
+  margin-left: 3%;
 }
 
 li {
-
-    margin-left: 2%;
+  margin-left: 2%;
 }
 .row {
-    text-align: center; /* Centra el texto dentro del div */
-   
+  text-align: center; /* Centra el texto dentro del div */
 }
